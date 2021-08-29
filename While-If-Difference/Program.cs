@@ -16,7 +16,7 @@ namespace While_If_Difference
                 name = Console.ReadLine();
             }
 
-            // This is the if statement. Uncomment it as see the difference.
+            // This is the if statement. Comment the while statement and Uncomment the following code and see the difference.
             //if (name == "")
             //    {
             //        Console.WriteLine("What is your name?");
